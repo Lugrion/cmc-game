@@ -1,4 +1,4 @@
-name: Deploy React to GitHub Pages
+name: Deploy Phaser to GitHub Pages
 
 on:
   push:

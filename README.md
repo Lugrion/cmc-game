@@ -49,6 +49,8 @@ Click the link to start playing:
 ## 🤝 **Contributing**
 If you find any bugs or have suggestions for new fighters or features, feel free to open an issue. I’d love to hear your feedback!  
 
+**Currently working on adding mobile web compatibility. Game is currently playable in desktop broswers only.**
+
 ---
 
 ## 📝 **License**
